@@ -300,3 +300,4 @@ C:\Users\J\Desktop\School\2025\CSE325\Week2\MvcMovie\bin\Debug\net8.0\runtimes\w
 C:\Users\J\Desktop\School\2025\CSE325\Week2\MvcMovie\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\J\Desktop\School\2025\CSE325\Week2\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.AssemblyReference.cache
 C:\Users\J\Desktop\School\2025\CSE325\Week2\MvcMovie\obj\Debug\net8.0\MvcMovie.csproj.Up2Date
+c:\Users\J\Desktop\School\2025\CSE325\Week2\MvcMovie\obj\Debug\net8.0\MvcMovie.sourcelink.json

@@ -51,6 +51,30 @@ public static class SeedData
                     Genre = "Western",
                     Price = 3.99M,
                     Rating = "NA"
+                },
+                new Movie
+                {
+                    Title = "Avengers: Infinity War",
+                    ReleaseDate = DateTime.Parse("2018-4-27"),
+                    Genre = "Science fiction",
+                    Price = 5.99M,
+                    Rating = "PG-13"
+                },
+                new Movie
+                {
+                    Title = "Avengers: Endgame",
+                    ReleaseDate = DateTime.Parse("2019-04-26"),
+                    Genre = "Science fiction",
+                    Price = 19.99M,
+                    Rating = "PG-13"
+                },
+                new Movie
+                {
+                    Title = "Doctor Strange in the Multiverse of Madness",
+                    ReleaseDate = DateTime.Parse("2022-05-06"),
+                    Genre = "Science fiction",
+                    Price = 3.79M,
+                    Rating = "PG-13"
                 }
             );
             context.SaveChanges();
